@@ -8,10 +8,10 @@
     reliability, high availability, and simple management, Couchbase serves data non-stop with
     minimal human intervention. </shortdesc>
  <conbody>
-   <p>Couchbase Server can be used as a <ul id="ul_tqn_kj5_gv">
+   <p>Couchbase Server can be used as a …<ul id="ul_tqn_kj5_gv">
         <li>managed cache tier <draft-comment author="amarantha">add examples</draft-comment></li>
-        <li>a key-value store</li>
-        <li>a document database</li>
+        <li>key-value store</li>
+        <li>document database</li>
       </ul>Couchbase Server along with <xref
         href="http://www.couchbase.com/nosql-databases/couchbase-mobile" format="html"
         scope="external">Couchbase Mobile</xref> enables enterprises to increase business agility,
